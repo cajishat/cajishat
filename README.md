@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cajishat
-- 👀 I’m interested in instructional design and elearning development
-- 🌱 I’m currently learning articulate storyline and react.js
-- 💞️ I’m looking to collaborate on simple html projects and courses using react
+- 👋 Hi, I’m Cajisha
+- 👀 I’m interested in web development and design
+- 🌱 I’m currently learning MongoDB and building real projects
+- 💞️ I’m looking to collaborate and create
 - 📫 you can reach me at cajishat@gmail.com 
 
 <!---
