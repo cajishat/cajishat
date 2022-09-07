@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cajisha
-- 👀 I’m interested in project management, web development and design
-- 🌱 I’m currently learning MongoDB, project management and building real projects
+- 👀 I’m interested in web development and design
+- 🌱 I’m currently learning JS and building real projects
 - 💞️ I’m looking to collaborate and create
 - 📫 you can reach me at cajishat@gmail.com 
 
